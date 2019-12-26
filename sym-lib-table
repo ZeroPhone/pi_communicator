@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rpiZEROConsole-rescue)(type Legacy)(uri ${KIPRJMOD}/rpiZEROConsole-rescue.lib)(options "")(descr ""))
+)
